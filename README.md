@@ -18,4 +18,6 @@ The analysis has been realized using Julia language and Pluto(Julia notebooks)
 
 3.- All the data files are included in the repository.
 
-The project shows a "offline version" of Parsiq data. It is possible to get a online version trought a web hook and run the following code online. But in this notebook I have copied the telegram events to a file in order to provide an analysis without waiting for new data.
+The project is based on a "offline version" of Parsiq data. It is possible to get a online version trought a web hook and run the following code online. But in this notebook, I have copied the telegram events to a file in order to provide an analysis without waiting for new data.
+
+
