@@ -8,7 +8,7 @@ The hypothesis is that there is a relationship between the price of the asset an
 
 ###### Only running the query during several weeks, and reviewing the data again, we should evaluate the usefulness of the idea for trading strategies.
 
-PARSIQ DATA: All the eth transactions has been recorded through Parsiq "Triggers and Transports". The data has been collected in two periods (with a gap of one day) due to the limitation of the parsiq trial account.
+PARSIQ DATA: All the ETH transactions has been recorded through Parsiq "Triggers and Transports". The data has been collected in two periods (with a gap of one day) due to the limitation of the parsiq trial account.
 
 The analysis has been realized using Julia language and Pluto(Julia notebooks)
 
